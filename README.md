@@ -27,3 +27,4 @@ Quotation marks are required!
 In case of successful execution of the program, a line containing commands for the robot is output to the console. For the previous example, it will look like this: `DNEED`
 ## Challenge
 To complete the challenge, enter this line as input data `5x5 (0, 0) (1, 3) (4, 4) (4, 2) (4, 2) (0, 1) (3, 2) (2, 3) (4, 1)`. The result should be `DNNNEDNEEEDSSDDSWWWWDNEEEDNWDSSEED`.
+## New change for testing
